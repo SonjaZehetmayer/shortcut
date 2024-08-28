@@ -1,4 +1,4 @@
-# shortcut
+# Shortcut
 
 A general consonance principle for closure tests based on p-values
 
