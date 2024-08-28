@@ -1,5 +1,7 @@
 # shortcut
 
-A general consonance principle for closure tests based on pvalues
-Statistical Methods in Medical Research
+A general consonance principle for closure tests based on p-values
+
+Statistical Methods in Medical Research 2024
+
 Sonja Zehetmayer, Franz Koenig, Martin Posch
