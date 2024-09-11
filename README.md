@@ -4,4 +4,4 @@
 
 
 
-Currently only running on R for Linux
+Currently only for R - Linux
